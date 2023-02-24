@@ -10,5 +10,5 @@ Aplicación que te permite agregar, mostrar y eliminar tareas en el local Storag
 ---
    
 <div align="center">
-<a href="https://guerrahgv.github.io/Task-App/">Demo👍</a>
+<a href="https://guerrahgv.github.io/Task-App/" target="_blank">Demo👍</a>
 </div>     
